@@ -1,0 +1,23 @@
+{
+  "tours": [
+    {
+      "id": "6cfaf967-6e09-43f0-9e3e-c3f91f8a852e",
+      "name": "Tour Atacames",
+      "price": "65",
+      "status": "active"
+    },
+    {
+      "id": "8fea37e1-0f45-4acc-8402-8e05fed62edb",
+      "name": "Tour Baños",
+      "price": "100",
+      "status": "desactive"
+    },
+    {
+      "id": "3d7e1d22-431c-43bd-8da2-2f8805cffef2",
+      "name": "Tour Guayas",
+      "price": "130",
+      "status": "active"
+    }
+  ],
+  "users": []
+}
